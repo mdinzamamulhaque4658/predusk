@@ -15,8 +15,18 @@ Click on AI chat bot to run my llm ( Please notice that its a bit out of tune be
 
 
 
+STEPS :
 
 
+OPEN PORTFOLIO LINK :
+
+https://huggingface.co/spaces/behappy092/space
+CLICK ON GENERATE
+![image](https://github.com/user-attachments/assets/bf9d6a92-3b80-437a-9d98-e348ad48b44f)
+CLICK ON AI CHATBOT 
+![image](https://github.com/user-attachments/assets/9f5f6203-d8d8-4644-9be5-8f4d98349189)
+INTERACT
+![image](https://github.com/user-attachments/assets/9adc3aed-93d6-4762-8121-69fd2ca75b6c)
 
 
 
